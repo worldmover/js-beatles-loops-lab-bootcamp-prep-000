@@ -1,5 +1,3 @@
-console.log("facts")
-
 function theBeatlesPlay(musicians,instruments){
 var array=[]
 
@@ -9,6 +7,7 @@ var array=[]
 return array
 }
 
+console.log(musicians)
 
 function johnLennonFacts(facts){
   l=facts.length
