@@ -7,8 +7,6 @@ for(var i=0;i<musicians.length;i++){
 return array
 }
 
-console.log("peppr")
-
 function johnLennonFacts(facts){
   l = facts.length
   while(l>0){
