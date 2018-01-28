@@ -7,6 +7,8 @@ var array=[]
 return array
 }
 
+console.log("peppr")
+
 function johnLennonFacts(facts){
   l=facts.length
   console.log(l)
