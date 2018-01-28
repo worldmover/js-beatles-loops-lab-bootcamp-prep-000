@@ -8,7 +8,7 @@ return array
 }
 
 function johnLennonFacts(facts){
-  l = facts.length
+  var l = facts.length
   while(l>0){
     facts[l-1]=facts[l-1]+"!!!"
     l--
