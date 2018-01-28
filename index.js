@@ -7,6 +7,7 @@ var array=[]
 return array
 }
 
+console.log("facts")
 function johnLennonFacts(facts){
   l=facts.length
   console.log(l)
