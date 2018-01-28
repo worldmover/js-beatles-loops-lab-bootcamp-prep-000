@@ -10,8 +10,7 @@ return array
 console.log("peppr")
 
 function johnLennonFacts(facts){
-  l=facts.length
-  console.log(l)
+  l = facts.length + 1
   while(l>0){
     facts[l]=facts[l]+"!!!"
   }
